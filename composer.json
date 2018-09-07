@@ -6,7 +6,7 @@
     
     "magento/magento-composer-installer": "*"
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
